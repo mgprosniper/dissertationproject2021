@@ -5,6 +5,11 @@ My Dissertation project about Object Detection
  - test.tfrecord
  - train.tfrecord
  - most of the working directory for tensorflow training.
+ 
+ ONEDRIVE LINK:
+ 
+ - https://livecoventryac-my.sharepoint.com/:f:/g/personal/guledm2_uni_coventry_ac_uk/Ekjp5XibDQNKh1NPWTD4bzAB4jhxm0hBjg4TjK9hytU9pw?e=djrBdi
+ -This link contains the files for the final exported models after training. It also includes the image datasets used throughout the project and their corresponding TF Records.
 
 
 Online resources Used in this project:
